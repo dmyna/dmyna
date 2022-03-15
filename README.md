@@ -1,4 +1,4 @@
-<img href="https://wall.alphacoders.com/big.php?i=1146043&lang=Spanish" src="https://images2.alphacoders.com/114/thumb-1920-1146043.jpg" width="100%" height="200px">
+<img href="https://wall.alphacoders.com/big.php?i=1146043&lang=Spanish" src="https://images2.alphacoders.com/114/thumb-1920-1146043.jpg" width="100%" height="180px">
 
 ## Apresentação:
 
