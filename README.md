@@ -1,4 +1,8 @@
-<img href="https://wall.alphacoders.com/big.php?i=1146043&lang=Spanish" src="https://images2.alphacoders.com/114/thumb-1920-1146043.jpg" width="100%" height="180px">
+<div align="center">
+
+[<img src="https://github.com/Minatiuu/Minatiuu/blob/main/Hu%20Tao%20Banner%201-1.jpg" height="180px" />](https://www.hdwallpapers.in/hu_tao_with_paimon_4k_hd_genshin_impact-wallpapers.html)
+
+</div>
 
 ## Apresentação:
 
