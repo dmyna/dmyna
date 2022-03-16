@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-[<img src="https://github.com/Minatiuu/Minatiuu/Hu%20Tao%20Banner%201-1.jpg" width="750" />](https://www.hdwallpapers.in/hu_tao_with_paimon_4k_hd_genshin_impact-wallpapers.html)
+[<img src="https://github.com/Minatiuu/Minatiuu/blob/main/Hu%20Tao%20Banner%201-1.jpg?raw=true" width="750" />](https://www.hdwallpapers.in/hu_tao_with_paimon_4k_hd_genshin_impact-wallpapers.html)
 
 </div>
 
