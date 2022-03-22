@@ -63,6 +63,35 @@ Lover of Java and Javascript/Node programmer.
 
 </div>
 
+<div align="center">
+
+## Statistics
+
+</div>
+
+<div align="center">
+
+<!-- Substituir com outra estatística -->
+
+<img title="Statistics" src="https://github-readme-stats.vercel.app/api/wakatime?username=Minatiuu&border_radius=15px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=false&custom_title=Weekly%20Stats" width="49%" />
+  
+</div>
+
+
+
+<!-- Redes Sociais -->
+<div align="center">
+
+## Social Media
+
+</div>
+
+<div align="center">
+
+<img title="Discord Presence" src="https://lanyard.cnrad.dev/api/855638247937409065" href="https://discord.com/users/855638247937409065" width="49%" />
+
+</div>
+
 
 
 <!-- Contribuições -->
@@ -84,5 +113,6 @@ Lover of Java and Javascript/Node programmer.
 <div align="center">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Minatiuu&left_color=#101010&right_color=#9000ff)
+[![Wakatime](https://wakatime.com/badge/user/c15d4d0b-1394-4aaf-9396-25999695b5a0.svg)](https://wakatime.com/@Minatiuu)
 
 </div>
