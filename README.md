@@ -35,7 +35,7 @@ Lover of Java and Javascript/Node programmer.
 #### Languages and Their Add-ons
 [<img title="HTML (85%)" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="40px" align="center">](https://logospng.org/logo-html-5/)
 [<img title="CSS (70%)" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="40px" align="center">](https://logospng.org/logo-css-3/)
-[<img title="Sass (60%)" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/sasslogo.png" width="40px" align="center">](https://www.freelogovectors.net/sass-logo/) <br>
+[<img title="Sass (60%)" src="https://github.com/Minatiuu/Minatiuu/blob/main/sass-logo.png" width="40px" align="center">](https://www.freelogovectors.net/sass-logo/) <br>
 
 <!-- Padding -->
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html)
