@@ -41,7 +41,7 @@ Lover of Java and Javascript/Node programmer.
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html)
 [<img title="Javascript (50%)" src="https://logospng.org/download/javascript/logo-javascript-256.png" width="40px" align="center">](https://logospng.org/logo-javascript/)
 [<img title="Node (60%)" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" width="40px" align="center">](https://icon-icons.com/icon/nodejs-plain-logo/146409)
-[<img title="jQuery (20%)" src="https://pluspng.com/img-png/jquery-logo-png--800.gif" width="40px" align="center">](https://pluspng.com/png-36253.html)
+[<img title="jQuery (20%)" src="https://pluspng.com/img-png/jquery-logo-png--800.gif" width="40px" height="40px" align="center">](https://pluspng.com/png-36253.html)
 [<img title="Angular (10%)" src="https://logospng.org/download/angular-js/logo-angular-js-icon-256.png" width="40px" align="center">](https://logospng.org/logo-angularjs/)
 [<img title="Socket.io (10%)" src="https://pic.onlinewebfonts.com/svg/img_238853.png" width="40px" align="center">](https://www.onlinewebfonts.com/icon/238853) <br>
 
