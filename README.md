@@ -33,20 +33,23 @@ Lover of Java and Javascript/Node programmer.
 ## Technologies
 
 #### Languages and Their Add-ons
-[<img title="HTML (85%)" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="40px" align="center">](https://logospng.org/logo-html-5/)
-[<img title="CSS (70%)" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="40px" align="center">](https://logospng.org/logo-css-3/)
-[<img title="Sass (60%)" src="https://github.com/Minatiuu/Minatiuu/blob/main/sass-logo.png" width="40px" align="center">](https://www.freelogovectors.net/sass-logo/) <br>
+[<img title="HTML" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="40px" align="center">](https://logospng.org/logo-html-5/)
+[<img title="CSS" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="40px" align="center">](https://logospng.org/logo-css-3/)
+[<img title="Sass" src="https://github.com/Minatiuu/Minatiuu/blob/main/sass-logo.png" width="40px" align="center">](https://www.freelogovectors.net/sass-logo/) <br>
 
-<!-- Padding -->
+
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html)
-[<img title="Javascript (50%)" src="https://logospng.org/download/javascript/logo-javascript-256.png" width="40px" align="center">](https://logospng.org/logo-javascript/)
-[<img title="Node (60%)" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" width="40px" align="center">](https://icon-icons.com/icon/nodejs-plain-logo/146409)
-[<img title="jQuery (20%)" src="https://pluspng.com/img-png/jquery-logo-png--800.gif" width="40px" height="40px" align="center">](https://pluspng.com/png-36253.html)
-[<img title="Angular (10%)" src="https://logospng.org/download/angular-js/logo-angular-js-icon-256.png" width="40px" align="center">](https://logospng.org/logo-angularjs/)
-[<img title="Socket.io (10%)" src="https://pic.onlinewebfonts.com/svg/img_238853.png" width="40px" align="center">](https://www.onlinewebfonts.com/icon/238853) <br>
+[<img title="Javascript" src="https://logospng.org/download/javascript/logo-javascript-256.png" width="40px" align="center">](https://logospng.org/logo-javascript/)
+[<img title="Typescript" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="40px" align="center">](https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png)
+[<img title="jQuery" src="https://pluspng.com/img-png/jquery-logo-png--800.gif" width="40px" height="40px" align="center">](https://pluspng.com/png-36253.html)
+[<img title="React" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" width="40px" align="center">](https://logos-download.com/9747-react-logo-download.html)
+[<img title="Socket.io" src="https://pic.onlinewebfonts.com/svg/img_238853.png" width="40px" align="center">](https://www.onlinewebfonts.com/icon/238853) <br>
 
 
-<!-- Padding -->
+[<img title="Node" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" width="40px" align="center">](https://icon-icons.com/icon/nodejs-plain-logo/146409)
+[<img title="Java" src="https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Java.png" width="40px" align="center">](https://cdn2.iconfinder.com/data/icons/metro-ui-dock/512/Java.png)
+<br>
+
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html)
 [<img title="Bash (5%)" src="https://github.com/Minatiuu/Minatiuu/blob/main/pngegg.png" width="40px" align="center">](https://www.pngegg.com/en/png-pxpgu) <br>
 
