@@ -32,31 +32,33 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 
 ## Technologies
 
-#### Languages and Their Add-ons
+#### Languages / Libs
 <a><img title="Rust" src="https://github.com/dmyna/dmyna/blob/main/rust.png" width="40px" align="center"></a>
 <a><img title="Clap" src="https://github.com/dmyna/dmyna/blob/main/clap.png" width="40px" align="center"></a>
-[<img title="Bash" src="https://github.com/dmyna/dmyna/blob/main/pngegg.png" width="40px" align="center">](https://www.pngegg.com/en/png-pxpgu) <br>
+[<img title="Bash" src="https://github.com/dmyna/dmyna/blob/main/pngegg.png" width="40px" align="center">](https://www.pngegg.com/en/png-pxpgu)
 
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html)
 [<img title="Typescript" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="40px" align="center">](https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png)
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
 [<img title="Typescript" src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" width="40px" align="center">](https://icon.icepanel.io/Technology/svg/Discord.js.svg)
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="4px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
 [<img title="Node" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" width="40px" align="center">](https://icon-icons.com/icon/nodejs-plain-logo/146409)
 
-[<img title="HTML" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="40px" align="center">](https://logospng.org/logo-html-5/)
-[<img title="CSS" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="40px" align="center">](https://logospng.org/logo-css-3/)
 [<img title="Sass" src="https://github.com/dmyna/dmyna/blob/main/sass-logo.png" width="40px" align="center">](https://www.freelogovectors.net/sass-logo/)
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="1px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
 [<img title="React" src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png" width="40px" align="center">](https://logos-download.com/9747-react-logo-download.html)
 [<img title="NextJS" src="https://seekicon.com/free-icon-download/next-js_1.svg" width="40px" align="center">](https://seekicon.com/free-icon/next-js_1)<br>
 
-
 #### Others Langs
 
+[<img title="HTML" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="40px" align="center">](https://logospng.org/logo-html-5/)
+[<img title="CSS" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="40px" align="center">](https://logospng.org/logo-css-3/)
+
+[<img title="Markdown" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" width="40px" align="center">](https://www.iconfinder.com/icons/4518935/markdown_icon)
+[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="2px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
+[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="2px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
 [<img title="JSON" src="https://cdn.freebiesupply.com/logos/large/2x/json-logo-png-transparent.png" width="40px" align="center">](https://freebiesupply.com/logos/json-logo/)
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="2px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="Markdown" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/205_Markdown-512.png" width="40px" align="center">](https://www.iconfinder.com/icons/4518935/markdown_icon)<br>
+[<img title="TOML" src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3244527/toml-icon-md.png" width="40px" align="center">](https://creazilla.com/nodes/3244527-toml-icon)
 
 #### Tools / System
 
@@ -71,7 +73,8 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 [<img title="TaskWarrior" src="https://github.com/dmyna/dmyna/blob/main/taskwarrior.png" width="40px" align="center">](https://f-droid.org/repo/icons-640/kvj.taskw.3.png)
 </div>
 
-[<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
+<br>
+
 <!-- Redes Sociais -->
 <div align="center">
 
