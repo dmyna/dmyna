@@ -89,22 +89,6 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 </div>
 
 
-
-<!-- Contribuições -->
-<div align="center">
-
-## Contributions
-
-</div>
-
-<div align="center">
-
-<img src="https://github.com/Minatiuu/Minatiuu/blob/output/github-contribution-grid-snake.svg">
-
-</div>
-
-
-
 <!-- Header com Links -->
 <div align="center">
 
