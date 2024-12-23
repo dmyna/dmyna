@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
 
-[<img src="https://github.com/Minatiuu/Minatiuu/blob/main/assets/frieren-wallpaper.png?raw=true" width="750" />](https://www.hdwallpapers.in/hu_tao_with_paimon_4k_hd_genshin_impact-wallpapers.html)
+[<img src="https://raw.githubusercontent.com/dmyna/dmyna/refs/heads/update_branding/assets/frieren-wallpaper.png" width="750" />](https://www.hdwallpapers.in/hu_tao_with_paimon_4k_hd_genshin_impact-wallpapers.html)
 
 </div>
 
