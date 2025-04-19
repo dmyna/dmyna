@@ -78,13 +78,13 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 <!-- Redes Sociais -->
 <div align="center">
 
-## Social Media
+## Statistics
 
 </div>
 
 <div align="center">
 
-<img title="Discord Presence" src="https://lanyard.cnrad.dev/api/855638247937409065" href="https://discord.com/users/855638247937409065" width="49%" />
+![](https://hit.yhype.me/github/profile?account_id=72279988)
 
 </div>
 
@@ -92,5 +92,5 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 <!-- Header com Links -->
 <div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=Minatiuu&left_color=#101010&right_color=#9000ff)
+![](https://visitor-badge.glitch.me/badge?page_id=dmyna&left_color=#101010&right_color=#9000ff)
 </div>
