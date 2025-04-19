@@ -84,7 +84,7 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 
 <div align="center">
 
-![](assets/github-metrics.svg)
+![](github-metrics.svg)
 
 </div>
 
