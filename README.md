@@ -84,7 +84,7 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 
 <div align="center">
 
-![](https://hit.yhype.me/github/profile?account_id=72279988)
+![](assets/github-metrics.svg)
 
 </div>
 
