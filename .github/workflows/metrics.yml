@@ -9,7 +9,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@{dmyna/lowlighter-metrics}
+      - uses: dmyna/lowlighter-metrics@main
         with:
           # Your GitHub token
           # The following scopes are required:
