@@ -37,9 +37,9 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 <a><img title="Clap" src="https://github.com/dmyna/dmyna/blob/main/assets/clap.png" width="40px" align="center"></a>
 [<img title="Bash" src="https://github.com/dmyna/dmyna/blob/main/assets/pngegg.png" width="40px" align="center">](https://www.pngegg.com/en/png-pxpgu)
 
-[<img title="Typescript" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="40px" align="center">](https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png)
+[<img title="Typescript" src="https://github.com/dmyna/dmyna/blob/main/assets/typescript-logo.png" width="40px" align="center">](https://www.typescriptlang.org/branding/)
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="5px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="Typescript" src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" width="40px" align="center">](https://icon.icepanel.io/Technology/svg/Discord.js.svg)
+[<img title="DiscordJS" src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" width="40px" align="center">](https://icon.icepanel.io/Technology/svg/Discord.js.svg)
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="4px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
 [<img title="Node" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_plain_logo_icon_146409.png" width="40px" align="center">](https://icon-icons.com/icon/nodejs-plain-logo/146409)
 
@@ -68,7 +68,7 @@ Lover of Rust, Clean Code and all the things that make a programmer's eyes shine
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="3px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
 [<img title="Git" src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" width="40px" align="center">](https://freebiesupply.com/logos/git-icon-logo/) 
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="3px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
-[<img title="Archcraft" src="https://seeklogo.com/images/A/archcraft-logo-7C0C9A2F58-seeklogo.com.png" width="40px" align="center">](https://seeklogo.com/images/A/archcraft-logo-7C0C9A2F58-seeklogo.com.png)
+[<img title="NixOS" src="https://raw.githubusercontent.com/NixOS/nixos-artwork/refs/heads/master/logo/nix-snowflake-colours.svg" width="40px" align="center">](https://github.com/NixOS/nixos-artwork/blob/master/logo/nix-snowflake-colours.svg)
 [<img src="https://3.bp.blogspot.com/-4Z_oOwpi5Qs/UuY0Q_Dk0nI/AAAAAAAAEsY/uUS9ksroIPM/s1600/a_fundotransparentero.png" height="3px" align="center">](https://www.lacremania.com.br/2014/01/png-fundo-transparente.html) <!-- Dummy -->
 [<img title="TaskWarrior" src="https://github.com/dmyna/dmyna/blob/main/assets/taskwarrior.png" width="40px" align="center">](https://f-droid.org/repo/icons-640/kvj.taskw.3.png)
 </div>
