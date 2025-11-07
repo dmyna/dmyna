@@ -88,7 +88,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 101kb of code in 77 edited files across 53 commits</small>
+                <small>estimation from 101kb of code in 78 edited files across 54 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -96,7 +96,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="298.79594423320657" height="8" fill="#dea584"/>
                     <rect mask="url(#languages-bar)" x="298.79594423320657" y="0" width="98.23827629911281" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="397.03422053231935" y="0" width="34.10646387832699" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="397.03422053231935" y="0" width="34.10646387832699" height="8" fill="#ededed"/>
                     <rect mask="url(#languages-bar)" x="431.1406844106464" y="0" width="28.85931558935361" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
@@ -116,7 +116,7 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
                                 PowerShell
                             </div>
@@ -230,7 +230,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2025, 01:09:27 (timezone UTC) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Nov 2025, 12:29:38 (timezone UTC) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
